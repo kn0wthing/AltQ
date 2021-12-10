@@ -8,4 +8,4 @@ Alt + W to traverse backward in tabs
 
 ![Screenshot](./src/images/ss2.png)
 
-Supports multiple window browsers
+Supports multiple windows of chrome browser
