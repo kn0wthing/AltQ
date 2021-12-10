@@ -8,4 +8,6 @@ Alt + W to traverse backward in tabs
 
 ![Screenshot](./src/images/ss2.png)
 
-Supports multiple windows of chrome browser
+1. Supports multiple windows of chrome browser
+2. Encode all tab data and can be decoded and copied any other device to get all tabs.
+3. Skips youtube ads.
